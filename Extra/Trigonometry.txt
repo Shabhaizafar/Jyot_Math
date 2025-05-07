@@ -1,0 +1,7 @@
+2.1 Units of Angles (degree and radian)
+2.2 Trigonometric Functions
+2.3 Allied & Compound Angles, Multiple – Submultiples angles
+2.4 Graph of Sine and Cosine,
+2.5 Periodic Trigonometric function
+2.6 Sum and factor formulae
+2.7 Inverse Trigonometric function

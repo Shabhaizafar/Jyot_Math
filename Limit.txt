@@ -1,0 +1,2 @@
+5.1 Limit of a Function.
+5.2 Standard formulae of Limit and related simple examples. 

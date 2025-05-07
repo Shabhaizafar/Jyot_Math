@@ -1,0 +1,8 @@
+4.1 Straight line (Two-point form) and slope of straight line
+4.2 Slope point form, Intercept form, General form of line
+4.3 Condition of parallel and perpendicular lines
+4.4 Equations of Parallel lines and Perpendicular lines to the given lines
+4.5 Angle between two lines.
+4.6 Equation of circle with center and Radius.
+4.7 General equation of circle.
+4.8 Tangent and normal to a circle.

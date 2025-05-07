@@ -1,0 +1,5 @@
+Determinants and Matrices ( Darshan )
+
+Introduction about Determinant and Matrices, Solve 2x2 and 3x3 determinant. Addition, Subtraction,
+Multiplication of 2x2 and 3x3 Matrix, Transpose of matrix, Adjoint of Matrix, Inverse of Matrix, Solve
+linear equation of two variables using matrix method.
